@@ -127,13 +127,11 @@ public class RSSService extends Service{
 
 				if (currLink.equals(prevLink) == false) {
 					addNotification(getApplicationContext(), currLink, title);
-
-					//Overwrite previous rss file
-					FileWriter fw = new FileWriter(rssFile, false);
-					fw.write(doc.toString());
-					fw.close();
-
 				}
+
+				FileWriter fw = new FileWriter(rssFile, false);
+				fw.write(doc.toString());
+				fw.close();
 
 				//Write Log
 				FileWriter log = new FileWriter(logFile, true);
@@ -144,8 +142,7 @@ public class RSSService extends Service{
 			}
 			else{
 				rssFile.createNewFile();
-
-				//Overwrite previous rss file
+				//Write RSS document to file for future reference
 				FileWriter fw = new FileWriter(rssFile, false);
 				fw.write(doc.toString());
 				fw.close();

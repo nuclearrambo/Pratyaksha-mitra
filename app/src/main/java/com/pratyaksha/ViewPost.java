@@ -72,7 +72,7 @@ public class ViewPost extends AppCompatActivity{
 	String heading;
 	String image;
 	String publishDate;
-	
+
 	//Variables
 	String postURL;
 	String imageURL;
@@ -101,7 +101,7 @@ public class ViewPost extends AppCompatActivity{
 		progressBar = (NumberProgressBar)findViewById(R.id.progressBar);
 		progressBar.setProgress(progress);
 		setViews();
-		
+
 		Intent intent = getIntent();
 		postURL = intent.getStringExtra("post_link");
 		imageURL = intent.getStringExtra("image_link");
@@ -222,17 +222,20 @@ public class ViewPost extends AppCompatActivity{
 		for(final ResolveInfo app : activityList) {
 
 			String packageName = app.activityInfo.packageName;
+			Log.d("PACKAGES",packageName);
 			Intent targetedShareIntent = new Intent(android.content.Intent.ACTION_SEND);
 			targetedShareIntent.setType("text/plain");
 			targetedShareIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, "share");
-			if(TextUtils.equals(packageName, "com.facebook.katana")){
-				targetedShareIntent.putExtra(android.content.Intent.EXTRA_TEXT, postURL);
-			} else {
-				targetedShareIntent.putExtra(android.content.Intent.EXTRA_TEXT, shareBody +"Read More at: "+postURL);
-			}
+			if(!packageName.contains("com.google.drive") ||packageName.contains("com.estrongs")) {
+				if (TextUtils.equals(packageName, "com.facebook.katana")) {
+					targetedShareIntent.putExtra(android.content.Intent.EXTRA_TEXT, postURL);
+				} else {
+					targetedShareIntent.putExtra(android.content.Intent.EXTRA_TEXT, shareBody + "Read More at: " + postURL);
+				}
 
-			targetedShareIntent.setPackage(packageName);
-			targetedShareIntents.add(targetedShareIntent);
+				targetedShareIntent.setPackage(packageName);
+				targetedShareIntents.add(targetedShareIntent);
+			}
 
 		}
 

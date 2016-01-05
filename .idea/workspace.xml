@@ -54,7 +54,74 @@
     <bookmark url="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java" line="120" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57bf91f8-60f7-4c1f-845e-25b9fc16b965" name="Default" comment="" />
+    <list default="true" id="57bf91f8-60f7-4c1f-845e-25b9fc16b965" name="Default" comment="Added about page and fixed RSS Service">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/About.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\MainActivity$10.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\MainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\MainActivity$MyFragment.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\MainActivity$MyFragment.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\MainActivity.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\MainActivity.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\PratyakshaSplashActivity.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\PratyakshaSplashActivity.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\android\support\design\R$id.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\android\support\design\R$id.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\android\support\v7\appcompat\R$id.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\android\support\v7\appcompat\R$id.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\facebook\R$id.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\facebook\R$id.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$id.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$id.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$integer.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$integer.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\android\support\design\R$layout.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\android\support\design\R$layout.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\android\support\v7\appcompat\R$layout.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\android\support\v7\appcompat\R$layout.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\daimajia\numberprogressbar\R$layout.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\daimajia\numberprogressbar\R$layout.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\facebook\R$layout.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\facebook\R$layout.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$layout.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$layout.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$menu.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$menu.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$string.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$string.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$style.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$style.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$styleable.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R$styleable.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\R.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\RSSService.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\RSSService.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewCategory$categoryAdapter.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewCategory$categoryAdapter.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewCategory.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewCategory.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$1.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$1.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPost$1.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPost$1.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPost.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPost.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPostNano$1$1.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPostNano$1$1.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPostNano$1$2.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPostNano$1$2.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPostNano$1.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPostNano$1.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPostNano.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost$FetchPostNano.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost.class" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\debug\com\pratyaksha\ViewPost.class" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\allclasses.jar" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\allclasses.jar" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\outputs\apk\app-debug-unaligned.apk" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\outputs\apk\app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\outputs\apk\app-debug.apk" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\outputs\apk\app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\dex\debug\classes.dex" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\dex\debug\classes.dex" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\componentClasses.jar" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\componentClasses.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/daimajia/numberprogressbar/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/daimajia/numberprogressbar/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/facebook/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/facebook/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/pratyaksha/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/pratyaksha/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_view_post.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_view_post.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\components.flags" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\components.flags" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\maindexlist.txt" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\maindexlist.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\manifest_keep.txt" afterPath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\multi-dex\debug\manifest_keep.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu/menu_viewpost.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu/menu_viewpost.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_viewpost.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_viewpost.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Pratyaksha_Android.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -83,11 +150,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1232" column="23" selection-start-line="1232" selection-start-column="23" selection-end-line="1232" selection-end-column="23" />
+            <state vertical-scroll-proportion="2.6011672">
+              <caret line="1178" column="43" selection-start-line="1178" selection-start-column="43" selection-end-line="1178" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,21 +162,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="79" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RSSService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RSSService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44268078">
-              <caret line="191" column="8" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
+            <state vertical-scroll-proportion="-9.76">
+              <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -120,33 +177,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding>
-                <element signature="e#1577#1578#0" expanded="false" />
-                <element signature="e#1600#1601#0" expanded="false" />
-                <element signature="e#1632#1633#0" expanded="false" />
-                <element signature="e#1655#1656#0" expanded="false" />
-                <element signature="e#1691#1692#0" expanded="false" />
-                <element signature="e#1718#1719#0" expanded="false" />
-                <element signature="e#1749#1750#0" expanded="false" />
-                <element signature="e#1771#1772#0" expanded="false" />
-                <element signature="e#1815#1816#0" expanded="false" />
-                <element signature="e#1846#1847#0" expanded="false" />
-                <element signature="e#1890#1891#0" expanded="false" />
-                <element signature="e#1921#1922#0" expanded="false" />
-                <element signature="e#1973#1974#0" expanded="false" />
-                <element signature="e#2012#2013#0" expanded="false" />
-                <element signature="e#2054#2055#0" expanded="false" />
-                <element signature="e#2083#2084#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PratyakshaSplashActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/PratyakshaSplashActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -155,30 +185,31 @@
       <file leaf-file-name="ViewPost.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="151" column="42" selection-start-line="151" selection-start-column="42" selection-end-line="151" selection-end-column="42" />
+            <state vertical-scroll-proportion="-19.12">
+              <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="96" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#6327#6335#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <file leaf-file-name="About.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/About.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_view_post.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml">
+      <file leaf-file-name="activity_about.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="105" selection-end-column="23" />
+            <state vertical-scroll-proportion="-20.74074">
+              <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -187,13 +218,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu_layout.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_layout.xml">
+      <file leaf-file-name="activity_view_post.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state vertical-scroll-proportion="-16.37037">
+              <caret line="26" column="38" selection-start-line="20" selection-start-column="12" selection-end-line="26" selection-end-column="38" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -201,8 +235,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_viewpost.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-              <folding />
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#480#502#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,6 +251,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2803,21 +2842,23 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/button_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/button_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main_feed.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/menu_layout.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/pratyaksha_splash.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_viewpost.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/Post.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/about_fragment.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_viewpost.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/About.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" />
       </list>
     </option>
   </component>
@@ -2837,7 +2878,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -3148,9 +3189,14 @@
       <recent name="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main" />
     </key>
     <key name="android.template.packageName">
+      <recent name="com.pratyaksha" />
       <recent name="layout" />
       <recent name="drawable" />
       <recent name="values-w820dp" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="com.pratyaksha.MainActivity" />
+      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\res\menu" />
@@ -3355,32 +3401,32 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20607029" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815966" sideWeight="0.48509052" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.30812013" sideWeight="0.49573562" order="7" side_tool="false" content_ui="tabs" x="46" y="51" width="1869" height="907" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.49337748" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991131" sideWeight="0.4978701" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2172524" sideWeight="0.5264901" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34257206" sideWeight="0.8115016" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35476717" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33037695" sideWeight="0.772098" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2172524" sideWeight="0.5057851" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34478936" sideWeight="0.18849841" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34478936" sideWeight="0.18849841" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.49361023" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.49337748" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1687966" sideWeight="0.47350994" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33037695" sideWeight="0.4834931" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33037695" sideWeight="0.4834931" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20633188" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32594234" sideWeight="0.49574015" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991131" sideWeight="0.4978701" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -3428,6 +3474,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Added about page and fixed RSS Service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added about page and fixed RSS Service" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
@@ -3435,25 +3488,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="android-dummy://C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android//Theme Editor">
-      <provider selected="true" editor-type-id="themeEditor">
-        <state theme-name="android:Theme.Material.Light.NoActionBar" module-name="app" proportion="0.5" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/card_background.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3618,17 +3652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_category.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/button_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3650,17 +3673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_layout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15799257">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -3729,82 +3741,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_viewpost.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="105" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="151" column="42" selection-start-line="151" selection-start-column="42" selection-end-line="151" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/Post.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#1577#1578#0" expanded="false" />
-            <element signature="e#1600#1601#0" expanded="false" />
-            <element signature="e#1632#1633#0" expanded="false" />
-            <element signature="e#1655#1656#0" expanded="false" />
-            <element signature="e#1691#1692#0" expanded="false" />
-            <element signature="e#1718#1719#0" expanded="false" />
-            <element signature="e#1749#1750#0" expanded="false" />
-            <element signature="e#1771#1772#0" expanded="false" />
-            <element signature="e#1815#1816#0" expanded="false" />
-            <element signature="e#1846#1847#0" expanded="false" />
-            <element signature="e#1890#1891#0" expanded="false" />
-            <element signature="e#1921#1922#0" expanded="false" />
-            <element signature="e#1973#1974#0" expanded="false" />
-            <element signature="e#2012#2013#0" expanded="false" />
-            <element signature="e#2054#2055#0" expanded="false" />
-            <element signature="e#2083#2084#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_layout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.99292034">
@@ -3831,29 +3767,144 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1232" column="23" selection-start-line="1232" selection-start-column="23" selection-end-line="1232" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.29155672">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="79" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="79" />
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44268078">
-          <caret line="191" column="8" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
+        <state vertical-scroll-proportion="-9.76">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_viewpost.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#480#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/commons-lang3-3.3.2.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34312573">
+          <caret line="357" column="26" selection-start-line="357" selection-start-column="26" selection-end-line="357" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_category.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1401649">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/Post.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10011779">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.12">
+          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="96" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6327#6335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/About.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.37037">
+          <caret line="26" column="38" selection-start-line="20" selection-start-column="12" selection-end-line="26" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.74074">
+          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33274338">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#1953#1971#0" expanded="true" />
+            <element signature="e#2345#2363#0" expanded="true" />
+            <element signature="e#2900#2918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6011672">
+          <caret line="1178" column="43" selection-start-line="1178" selection-start-column="43" selection-end-line="1178" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:2:1-80:12
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:2:1-91:12
 	xmlns:android
 		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -44,35 +44,43 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\Androi
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:10:2-64
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:10:19-61
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:11:2-78
-	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:11:19-75
-uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
 ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:12:5-81
 	android:name
 		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:13:5-65
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:14:5-66
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:13:22-63
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:14:22-63
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:14:5-79
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:14:22-76
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:15:22-76
 uses-permission#android.alarm.permission.SET_ALARM
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:15:5-73
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:16:5-74
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:15:22-71
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:16:22-71
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:16:5-68
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:17:5-68
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:16:22-65
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:17:22-65
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:19:5-83
+	android:name
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:19:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:20:5-88
+	android:name
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:20:30-85
 application
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:18:5-78:19
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:22:5-89:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.melnykov:floatingactionbutton:1.2.0] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\AndroidManifest.xml:12:5-20
@@ -88,98 +96,106 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\Androi
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:21:9-41
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:25:9-41
 	android:allowBackup
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:23:9-35
 	android:icon
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:20:9-45
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:24:9-45
 	android:theme
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:22:9-40
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:26:9-40
 provider#com.facebook.FacebookContentProvider
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:25:9-27:38
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:27:9-30:39
 	android:exported
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:30:13-36
 	android:authorities
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:25:19-97
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:29:13-91
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:26:13-64
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:28:13-64
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:28:9-107
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:32:9-34:55
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:28:20-65
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:33:13-58
 	android:value
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:28:66-105
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:34:13-52
 activity#com.facebook.FacebookActivity
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:29:9-33:48
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:36:9-40:75
 	android:label
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:33:13-45
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:39:13-45
 	android:configChanges
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:30:13-113
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:38:13-96
 	android:theme
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:32:13-72
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:40:13-72
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:29:19-63
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:37:13-57
 activity#com.pratyaksha.PratyakshaSplashActivity
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:34:9-43:20
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:41:9-50:20
 	android:label
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:36:13-45
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:44:13-45
 	android:configChanges
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:37:13-63
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:43:13-63
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:35:13-67
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:42:13-53
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:38:13-42:29
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:45:13-49:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:39:17-69
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:46:17-69
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:39:25-66
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:46:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:41:17-77
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:48:17-77
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:41:27-74
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:48:27-74
 activity#com.pratyaksha.MainActivity
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:44:9-51:20
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:51:9-55:55
 	android:label
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:46:13-45
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:54:13-45
 	android:configChanges
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:48:13-63
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:53:13-63
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:45:13-55
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:52:13-41
 	android:launchMode
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:47:13-43
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:55:13-43
 activity#com.pratyaksha.ViewCategory
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:53:9-60:20
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:56:9-63:20
 	android:label
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:55:13-45
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:59:13-45
 	android:configChanges
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:56:13-63
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:58:13-63
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:54:13-55
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:57:13-41
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:57:13-59:60
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:60:13-62:63
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:58:14-60
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:61:17-63
 	android:value
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:59:14-57
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:62:17-60
 activity#com.pratyaksha.ViewPost
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:62:9-69:20
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:64:9-71:20
 	android:label
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:64:13-45
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:67:13-45
 	android:configChanges
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:65:13-63
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:66:13-63
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:63:13-51
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:65:13-37
 service#com.pratyaksha.RSSService
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:71:9-61
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:73:9-47
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:71:18-58
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:73:18-44
 receiver#com.pratyaksha.PeriodicTaskReceiver
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:73:9-77:20
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:75:9-79:20
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:73:19-69
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:75:19-55
 intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:74:13-76:29
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:76:13-78:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:75:17-79
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:77:17-79
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:75:25-76
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:77:25-76
+activity#com.pratyaksha.About
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:81:9-88:20
+	android:label
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:83:13-57
+	android:parentActivityName
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:84:13-55
+	android:name
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:82:13-34

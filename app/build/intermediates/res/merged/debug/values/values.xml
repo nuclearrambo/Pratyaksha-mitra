@@ -440,6 +440,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="title_activity_about">About</string>
     <string name="title_main_activity">Main News Activity</string>
     <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>

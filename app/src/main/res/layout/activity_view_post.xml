@@ -33,7 +33,7 @@
                     <ImageView
                         android:id="@+id/featuredImage"
                         android:layout_width="match_parent"
-                        android:layout_height="210dp"
+                        android:layout_height="213dp"
                         android:src="@drawable/pratyaksha"
                         android:layout_weight="36.32" />
 

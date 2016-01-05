@@ -1175,16 +1175,13 @@ public class MainActivity extends AppCompatActivity{
 				startActivity(intent);
 				return true;
 			case R.id.about:
-
+				Intent aboutIntent = new Intent(getApplicationContext(), About.class);
+				startActivity(aboutIntent);
 				return true;
 		}
 
 		//Drawer
-		if (mDrawerToggle.onOptionsItemSelected(item)) {
-		    return true;
-		}
-		else
-			return false;
+		return mDrawerToggle.onOptionsItemSelected(item);
 
 
 	}
