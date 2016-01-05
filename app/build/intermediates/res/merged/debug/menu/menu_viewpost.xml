@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.pratyaksha.ViewPost">
+
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share_white_24dp"
+        android:title="@string/action_share"/>
+
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_refresh_white_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_refresh"/>
+
+
+
+</menu>
+<!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/src/main/res/menu/menu_viewpost.xml -->

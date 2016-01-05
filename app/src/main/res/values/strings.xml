@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pratyaksha</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">Splash Image</string>
+    <string name="title_main_activity">Main News Activity</string>
+	<color name = "headline_color">#FCFCFC</color>
+	<color name = "headline_bg">#7575A3</color>
+	<color name = "progressbar">#F6A400</color>
+	<color name = "internal_links">#33001A</color>
+	<color name="light_grey">#cccccc</color>
+	<color name = "primary">#257BFF</color>
+	<color name = "primary_accent">#123D7F</color>
+	<color name="card_white">#FEFEFE</color>
+	<color name="second_grey">#FCFCFC</color>
+	<color name="dark_grey">#262626</color>
+	<string name="app_id">1027822807276089</string>
+	<string name="drawer_open">Open navigation drawer</string>
+	<string name="drawer_close">Close navigation drawer</string>
+	<string name ="facebook_app_id"></string>
+	<string name = "action_refresh">Reload</string>
+	<string name = "action_about">About</string>
+	<string name = "action_share">Share</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\pre-dexed\debug\classes-840dc7eb93d88caf888f94b235a5cdea2449a33d.jar" />
+    </item>
+
+</items>

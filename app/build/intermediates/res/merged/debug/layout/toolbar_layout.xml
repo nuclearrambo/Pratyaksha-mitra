@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:background="@color/primary"
+        android:layout_width="match_parent"
+        app:theme="@style/AppTheme.Toolbar"
+        app:titleTextAppearance="@style/AppTheme.Toolbar.Title"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:layout_height="@dimen/abc_action_bar_default_height_material"
+        app:title="@string/app_name"
+      >
+
+
+</android.support.v7.widget.Toolbar><!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/src/main/res/layout/toolbar_layout.xml -->

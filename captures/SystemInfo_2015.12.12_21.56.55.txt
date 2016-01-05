@@ -1,0 +1,89 @@
+Applications Graphics Acceleration Info:
+Uptime: 69040368 Realtime: 221326851
+
+** Graphics info for pid 6483 [com.example.application] **
+
+Recent DisplayList operations
+                      DrawText
+                      DrawText
+                      RestoreToCount
+                    DrawRenderNode
+                    DrawRenderNode
+                    DrawRenderNode
+                    DrawRenderNode
+                    DrawRenderNode
+                    DrawRenderNode
+                    DrawRenderNode
+                    DrawRenderNode
+                    RestoreToCount
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  DrawRenderNode
+                  RestoreToCount
+            RestoreToCount
+    RestoreToCount
+  DrawRenderNode
+    DrawRenderNode
+      DrawRect
+RestoreToCount
+DrawRect
+DrawRect
+DrawRect
+DrawText
+DrawPath
+DrawRoundRect
+DrawRoundRect
+DrawRoundRect
+DrawRoundRect
+DrawBitmap
+DrawRect
+DrawRect
+DrawRect
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+multiDraw
+  DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache         13462444 / 100663296
+  LayerCache                  0 / 67108864 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 / 12582912
+  GradientCache               0 /  1048576
+  PathCache                3700 / 40894464
+  TessellationCache       40920 /  1048576
+  TextDropShadowCache     16000 /  7340032
+  PatchCache                576 /   131072
+  FontRenderer 0 A8     4194304 /  4194304
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total  4194304 /  4194304
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  17717944 bytes, 16.90 MB
+
+Profile data in ms:
+
+	com.example.application/com.pratyaksha.MainActivity/android.view.ViewRootImpl@f62d719 (visibility=0)
+View hierarchy:
+
+  com.example.application/com.pratyaksha.MainActivity/android.view.ViewRootImpl@f62d719
+  201 views, 363.61 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        201
+Total DisplayList:  363.61 kB
+

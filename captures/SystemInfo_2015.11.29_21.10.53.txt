@@ -1,0 +1,3 @@
+TASK com.example.application id=1050
+  ACTIVITY com.example.application/com.pratyaksha.MainActivity 35835739 pid=31684
+    Failure while dumping the activity: java.io.IOException: Timeout

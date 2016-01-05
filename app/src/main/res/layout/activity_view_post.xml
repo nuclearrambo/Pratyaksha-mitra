@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <include layout="@layout/toolbar_layout" ></include>
+
+        <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+            android:fillViewport="false"
+            android:id="@+id/scrollview">
+
+            <LinearLayout
+                android:id="@+id/postlayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@color/light_grey"
+                android:weightSum="1">
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="240dp"
+                    android:paddingBottom="10dp"
+                    android:background="@drawable/card_background_selector" >
+                    <ImageView
+                        android:id="@+id/featuredImage"
+                        android:layout_width="match_parent"
+                        android:layout_height="210dp"
+                        android:src="@drawable/pratyaksha"
+                        android:layout_weight="36.32" />
+
+                    <com.daimajia.numberprogressbar.NumberProgressBar
+                        android:id="@+id/progressBar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:progress_text_size="15dp"
+                        style="@style/NumberProgressBar_Warning_Red"
+                        android:paddingTop="10dp"
+                        android:layout_gravity="center_horizontal|bottom" />
+
+                </FrameLayout>
+
+                <TextView
+                    android:id="@+id/postHeading"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Loading..."
+                    android:textSize="40sp"
+                    android:paddingStart = "5dp"
+                    android:paddingEnd = "5dp"
+                    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                <!--<com.facebook.share.widget.ShareButton-->
+
+
+
+                <TextView
+                    android:id="@+id/postBody"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:paddingStart = "5dp"
+                    android:paddingEnd = "5dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+    <!--<LinearLayout-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="top"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:layout_alignParentBottom="false"-->
+        <!--android:layout_marginTop="280dp"-->
+        <!-->-->
+        <!--<android.support.design.widget.CoordinatorLayout-->
+            <!--android:id="@+id/main_content"-->
+            <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+            <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+        <!--<android.support.design.widget.FloatingActionButton-->
+            <!--android:id="@+id/fab"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/ic_people_white_24dp"-->
+            <!--app:fabSize="normal"-->
+            <!--app:layout_anchorGravity="top|right|end"-->
+            <!--app:rippleColor="#F06292"-->
+            <!--android:layout_gravity="top"-->
+            <!--android:layout_marginBottom="16dp"-->
+            <!--android:layout_marginRight="16dp" />-->
+        <!--</android.support.design.widget.CoordinatorLayout>-->
+    <!--</LinearLayout>-->
+</RelativeLayout>
