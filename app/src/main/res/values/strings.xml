@@ -24,4 +24,6 @@
 	<string name="action_about">About</string>
 	<string name="action_share">Share</string>
     <string name="title_activity_about">About</string>
+	<string name="versionCode">1</string>
+	<string name="versionName">1.0b</string>
 </resources>

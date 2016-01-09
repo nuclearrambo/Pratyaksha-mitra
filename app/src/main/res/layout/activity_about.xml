@@ -5,7 +5,20 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     >
-    <include layout="@layout/toolbar_layout" ></include>
+    <android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:background="@color/primary"
+        android:layout_width="match_parent"
+        app:theme="@style/AppTheme.Toolbar"
+        app:titleTextAppearance="@style/AppTheme.Toolbar.Title"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:layout_height="@dimen/abc_action_bar_default_height_material"
+        app:title="मित्र का मनोगत "
+        >
+
+    </android.support.v7.widget.Toolbar>
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -25,6 +38,14 @@
                 android:id="@+id/imageView"
                 android:src="@drawable/pratyaksha"
                 android:layout_gravity="center_horizontal" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="30dp"
+                android:layout_marginBottom="15dp"
+                android:textColor="#000000"
+                android:text="मित्र का मनोगत "/>
 
             <TextView
                 android:layout_width="match_parent"
@@ -45,7 +66,7 @@
                 android:layout_marginEnd="5dp"
                 android:gravity="end"
                 android:textColor="#F0000000"
-                android:text="Developer: Salil Tembe\nVersion: 1.0b">
+                android:text="Developer: Salil Tembe\nVersion: 1.01b">
             </TextView>
 
                 <TextView

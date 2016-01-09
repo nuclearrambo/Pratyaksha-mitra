@@ -56,6 +56,7 @@ import com.facebook.appevents.AppEventsLogger;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 
+import org.apache.commons.lang3.CharEncoding;
 import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
@@ -319,7 +320,7 @@ public class MainActivity extends AppCompatActivity{
 		if(alarmRunning == false){
 			PendingIntent pendingIntent = PendingIntent.getBroadcast(this.context, 0, alarm, 0);
 			AlarmManager alarmManager = (AlarmManager)getSystemService(Context.ALARM_SERVICE);
-			alarmManager.setRepeating(AlarmManager.RTC_WAKEUP, SystemClock.elapsedRealtime(), 1000*60*15, pendingIntent);
+			alarmManager.setRepeating(AlarmManager.RTC_WAKEUP, SystemClock.elapsedRealtime(), 1000*60*3, pendingIntent);
 
 		}
 	}
@@ -336,9 +337,11 @@ public class MainActivity extends AppCompatActivity{
 			client.get(postURL, new AsyncHttpResponseHandler() {
 				@Override
 				public void onSuccess(int statusCode, Header[] headers, byte[] responseBody) {
-					String httpResponse = new String(responseBody, StandardCharsets.UTF_8);
-					Document doc = Jsoup.parse(httpResponse);
+					String httpResponse;
+					Document doc;
 					try{
+						httpResponse = new String(responseBody, CharEncoding.UTF_8);
+						doc = Jsoup.parse(httpResponse);
 						progress = progress+5;
 						progressBar.setProgress(progress);
 

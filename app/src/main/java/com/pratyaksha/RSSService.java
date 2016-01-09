@@ -127,18 +127,11 @@ public class RSSService extends Service{
 
 				if (currLink.equals(prevLink) == false) {
 					addNotification(getApplicationContext(), currLink, title);
+					FileWriter fw = new FileWriter(rssFile, false);
+					fw.write(doc.toString());
+					fw.close();
 				}
 
-				FileWriter fw = new FileWriter(rssFile, false);
-				fw.write(doc.toString());
-				fw.close();
-
-				//Write Log
-				FileWriter log = new FileWriter(logFile, true);
-				SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd_HH:mm:ss");
-				Date now = new Date();
-				log.write("Time: "+formatter.format(now) + "\n");
-				log.close();
 			}
 			else{
 				rssFile.createNewFile();
@@ -147,17 +140,15 @@ public class RSSService extends Service{
 				fw.write(doc.toString());
 				fw.close();
 			}
+			//Write Log
+			FileWriter log = new FileWriter(logFile, true);
+			SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd_HH:mm:ss");
+			Date now = new Date();
+			log.write("Time: "+formatter.format(now) + "\n");
+			log.close();
 
 		} catch(NullPointerException e){
-			try {
-				//Overwrite previous rss file
-				FileWriter fw = new FileWriter(rssFile, false);
-				fw.write(doc.toString());
-				fw.close();
-			}
-			catch(IOException e1){
-				e.printStackTrace();
-			}
+			e.printStackTrace();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {

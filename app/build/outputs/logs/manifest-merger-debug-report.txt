@@ -8,7 +8,7 @@ ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\sr
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:5:5-30
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:5:5-31
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
 	android:versionCode

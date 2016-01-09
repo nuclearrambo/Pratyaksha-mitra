@@ -2,12 +2,14 @@ package com.pratyaksha;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Callable;
 
+import org.apache.commons.lang3.CharEncoding;
 import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
@@ -42,6 +44,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
 import android.util.Log;
+import android.util.TypedValue;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -58,7 +61,6 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.loopj.android.http.*;
-
 public class ViewPost extends AppCompatActivity{
 
 	//Views
@@ -82,6 +84,7 @@ public class ViewPost extends AppCompatActivity{
 
 	//Android related
 	Handler handler = new Handler();
+	Toolbar toolBar;
 
 	//Cache Related
 	SimpleDiskCache cache;
@@ -92,7 +95,7 @@ public class ViewPost extends AppCompatActivity{
 
 		FacebookSdk.sdkInitialize(getApplicationContext());
 		setContentView(R.layout.activity_view_post);
-		Toolbar toolBar = (Toolbar)findViewById(R.id.toolbar);
+		toolBar = (Toolbar)findViewById(R.id.toolbar);
 		setSupportActionBar(toolBar);
 		toolBar.setVisibility(View.VISIBLE);
 		getSupportActionBar().setDisplayHomeAsUpEnabled(true);
@@ -154,6 +157,7 @@ public class ViewPost extends AppCompatActivity{
 		}
 	    if(android.R.id.home == item.getItemId()){
 	    	finish();
+
 	    }
 		return super.onOptionsItemSelected(item);
 	}
@@ -239,7 +243,7 @@ public class ViewPost extends AppCompatActivity{
 
 		}
 
-		Intent chooserIntent = Intent.createChooser(targetedShareIntents.remove(0), "Share Idea");
+		Intent chooserIntent = Intent.createChooser(targetedShareIntents.remove(0), "Share");
 
 		chooserIntent.putExtra(Intent.EXTRA_INITIAL_INTENTS, targetedShareIntents.toArray(new Parcelable[]{}));
 		startActivity(chooserIntent);
@@ -261,18 +265,21 @@ public class ViewPost extends AppCompatActivity{
 
 				@Override
 				public void onSuccess(int i, cz.msebera.android.httpclient.Header[] headers, byte[] bytes) {
-					String httpResponse = new String(bytes, StandardCharsets.UTF_8);
-					postContent = Jsoup.parse(httpResponse);
-					//Log.d("DEBUG", httpResponse);
+
 					try {
+						String httpResponse = new String(bytes, CharEncoding.UTF_8);
+						postContent = Jsoup.parse(httpResponse);
+						//Log.d("DEBUG", httpResponse);
+
 						MainActivity.cache.put(postURL, postContent.toString());
 						Log.d("CACHE", "Page Store in Cache");
-					} catch (IOException e) {
-						Log.d("CACHE", "Failed to store page to Cache");
+					} catch (UnsupportedEncodingException e) {
 						e.printStackTrace();
-					}
-					catch(NullPointerException e1){
+					} catch (IOException e1) {
+						Log.d("CACHE", "Failed to store page to Cache");
 						e1.printStackTrace();
+					} catch (NullPointerException e2) {
+						e2.printStackTrace();
 					}
 					//populate UI Thread
 					try {
@@ -291,6 +298,7 @@ public class ViewPost extends AppCompatActivity{
 					} catch (NullPointerException e) {
 						retryButton();
 					}
+
 				}
 
 				@Override
@@ -434,38 +442,44 @@ public class ViewPost extends AppCompatActivity{
 	}
 	
 	public void populateViews(){
-		//heading
-		heading = postContent.select("h1.entry-title").text();
+		try {
+			//heading
+			heading = postContent.select("h1.entry-title").text();
 
-		//Publish Date
-		publishDate = postContent.select("time.published").first().text();
-		postBody.setText(publishDate);
-		postBody.setTextSize(14);
-		
-		//Add a horizontal seperator line
-		View line = new View(this);
-		line.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT, 1));
-		line.setBackgroundColor(Color.rgb(51, 51, 51));
-		postbody.addView(line);
-		
-		//body
-		Elements bodyDiv = postContent.select("div.entry-content");
-		summary = extractPara(bodyDiv)+"...";
-		//featured img
-		if(imageURL==null){
-			imageURL = postContent.select("div.entry-content")
-				.select("img")
-				.first()
-				.attr("abs:src");
+			//Publish Date
+			publishDate = postContent.select("time.published").first().text();
+			postBody.setText(publishDate);
+			postBody.setTextSize(14);
+
+			//Add a horizontal seperator line
+			View line = new View(this);
+			line.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT, 1));
+			line.setBackgroundColor(Color.rgb(51, 51, 51));
+			postbody.addView(line);
+
+			//body
+			Elements bodyDiv = postContent.select("div.entry-content");
+			summary = extractPara(bodyDiv) + "...";
+			//featured img
+			if (imageURL == null) {
+				imageURL = postContent.select("div.entry-content")
+						.select("img")
+						.first()
+						.attr("abs:src");
+			}
+			postHeading.setText(heading);
+			toolBar.setTitle(heading);
+			Glide.with(getApplicationContext())
+					.load(imageURL)
+					.diskCacheStrategy(DiskCacheStrategy.ALL)
+					.placeholder(R.drawable.pratyaksha)
+					.into(postImage);
+
+			setupFacebookShareIntent(heading, summary, postURL);
 		}
-		postHeading.setText(heading);
-		Glide.with(getApplicationContext())
-				.load(imageURL)
-				.diskCacheStrategy(DiskCacheStrategy.ALL)
-				.placeholder(R.drawable.pratyaksha)
-				.into(postImage);
-
-		setupFacebookShareIntent(heading, summary, postURL);
+		catch(IllegalArgumentException e){
+			e.printStackTrace();
+		}
 
 	}
 	
@@ -486,7 +500,8 @@ public class ViewPost extends AppCompatActivity{
 			}
 			TextView text = new TextView(ViewPost.this);
 			text.setTextSize(20);
-			text.setPadding(5, 5, 5, 5);
+			text.setLineSpacing(5.0f , 1.0f);
+			text.setPadding(8, 5, 5, 5);
 			text.setText("\t" + para.text() + "\n");
 			postbody.addView(text);
 		}
