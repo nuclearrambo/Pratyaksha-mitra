@@ -160,7 +160,7 @@ public class RSSService extends Service{
 	public void addNotification(Context context, String URL, String title){
 		Intent notificationIntent = new Intent(context, ViewPost.class);
 		notificationIntent.putExtra("post_link", URL);
-		PendingIntent contentIntent = PendingIntent.getActivity(this, 0, notificationIntent,
+		PendingIntent contentIntent = PendingIntent.getActivity(getApplicationContext(), 0, notificationIntent,
 				Intent.FLAG_ACTIVITY_NEW_TASK);
 
 			notification = new Notification.Builder(context)

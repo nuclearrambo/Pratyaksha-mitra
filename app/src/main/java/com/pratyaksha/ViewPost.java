@@ -1,66 +1,50 @@
 package com.pratyaksha;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.nio.charset.StandardCharsets;
-import java.text.ParseException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.Callable;
+import android.app.ActionBar.LayoutParams;
+import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.content.pm.ResolveInfo;
+import android.graphics.Color;
+import android.os.AsyncTask;
+import android.os.Bundle;
+import android.os.Handler;
+import android.os.Parcelable;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
+import android.text.TextUtils;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.load.engine.DiskCacheStrategy;
+import com.daimajia.numberprogressbar.NumberProgressBar;
+import com.facebook.FacebookSdk;
+import com.facebook.appevents.AppEventsLogger;
+import com.loopj.android.http.AsyncHttpClient;
+import com.loopj.android.http.AsyncHttpResponseHandler;
 
 import org.apache.commons.lang3.CharEncoding;
-import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.bumptech.glide.Glide;
-import com.bumptech.glide.load.engine.DiskCacheStrategy;
-import com.daimajia.numberprogressbar.NumberProgressBar;
-import com.facebook.appevents.AppEventsLogger;
-import com.facebook.share.model.ShareLinkContent;
-import com.facebook.share.widget.ShareButton;
-import com.facebook.share.widget.ShareDialog;
-import com.loopj.android.http.AsyncHttpClient;
-import com.loopj.android.http.AsyncHttpResponseHandler;
-import com.pratyaksha.R;
-import com.facebook.FacebookSdk;
-import android.app.ActionBar.LayoutParams;
-import android.app.Activity;
-import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.content.pm.ResolveInfo;
-import android.graphics.Color;
-import android.net.Uri;
-import android.os.AsyncTask;
-import android.os.Bundle;
-import android.os.Handler;
-import android.os.Parcelable;
-import android.support.design.widget.FloatingActionButton;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.text.TextUtils;
-import android.util.Log;
-import android.util.TypedValue;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.ViewTreeObserver;
-import android.view.Window;
-import android.view.View.OnClickListener;
-import android.view.ViewTreeObserver.OnGlobalLayoutListener;
-import android.widget.Button;
-import android.widget.FrameLayout;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.ProgressBar;
-import android.widget.RelativeLayout;
-import android.widget.TextView;
-import android.widget.Toast;
-import com.loopj.android.http.*;
+import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
+
+
 public class ViewPost extends AppCompatActivity{
 
 	//Views
@@ -439,6 +423,7 @@ public class ViewPost extends AppCompatActivity{
 		postBody = (TextView)findViewById(R.id.postBody);
 		postImage = (ImageView)findViewById(R.id.featuredImage);
 		postbody = (LinearLayout)findViewById(R.id.postlayout);
+
 	}
 	
 	public void populateViews(){
@@ -476,6 +461,9 @@ public class ViewPost extends AppCompatActivity{
 					.into(postImage);
 
 			setupFacebookShareIntent(heading, summary, postURL);
+
+			//Set selectable option to true;
+			postBody.setTextIsSelectable(true);
 		}
 		catch(IllegalArgumentException e){
 			e.printStackTrace();

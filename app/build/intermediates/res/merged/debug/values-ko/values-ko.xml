@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml -->
+    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -40,7 +40,7 @@
     <string name="com_facebook_share_button_text">공유하기</string>
     <string name="com_facebook_tooltip_default">새로운 기능! 이제 앱과 어떤 정보를 공유할지 자유롭게 선택할 수 있습니다.</string>
     <string name="messenger_send_button_text">보내기</string>
-    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ko/values-ko.xml -->
+    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

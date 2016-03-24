@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nb/values-nb.xml -->
+    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-nb/values-nb.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
@@ -40,7 +40,7 @@
     <string name="com_facebook_share_button_text">Del</string>
     <string name="com_facebook_tooltip_default">Nyhet! Du bestemmer – velg hvilke opplysninger du vil dele med appene.</string>
     <string name="messenger_send_button_text">Send</string>
-    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nb/values-nb.xml -->
+    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-nb/values-nb.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

@@ -10,7 +10,22 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         >
-        <include layout="@layout/toolbar_layout" ></include>
+        <android.support.v7.widget.Toolbar
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/toolbar"
+            android:background="@color/primary"
+            android:layout_width="match_parent"
+            app:theme="@style/AppTheme.Toolbar"
+            app:titleTextAppearance="@style/AppTheme.Toolbar.Title"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            android:layout_height="@dimen/abc_action_bar_default_height_material"
+            app:title=""
+            android:ellipsize="marquee"
+            >
+
+
+        </android.support.v7.widget.Toolbar>
 
         <ScrollView
         android:layout_width="match_parent"
@@ -23,30 +38,24 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
-                android:background="@color/light_grey"
+                android:background="@color/card_white"
                 android:weightSum="1">
-                <FrameLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="240dp"
-                    android:paddingBottom="10dp"
-                    android:background="@drawable/card_background_selector" >
+
                     <ImageView
                         android:id="@+id/featuredImage"
                         android:layout_width="match_parent"
-                        android:layout_height="213dp"
+                        android:layout_height="230dp"
                         android:src="@drawable/pratyaksha"
-                        android:layout_weight="36.32" />
+                        />
 
-                    <com.daimajia.numberprogressbar.NumberProgressBar
-                        android:id="@+id/progressBar"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        app:progress_text_size="15dp"
-                        style="@style/NumberProgressBar_Warning_Red"
-                        android:paddingTop="10dp"
-                        android:layout_gravity="center_horizontal|bottom" />
-
-                </FrameLayout>
+                <com.daimajia.numberprogressbar.NumberProgressBar
+                    android:id="@+id/progressBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:progress_text_size="15dp"
+                    style="@style/NumberProgressBar_Warning_Red"
+                    android:layout_margin="5dp"
+                    android:layout_gravity="center_horizontal|bottom" />
 
                 <TextView
                     android:id="@+id/postHeading"
@@ -56,6 +65,7 @@
                     android:textSize="40sp"
                     android:paddingStart = "5dp"
                     android:paddingEnd = "5dp"
+                    android:textColor="@color/dark_grey"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
 
                 <!--<com.facebook.share.widget.ShareButton-->
@@ -66,9 +76,9 @@
                     android:id="@+id/postBody"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text=""
                     android:paddingStart = "5dp"
                     android:paddingEnd = "5dp"
+                    android:textColor="#000000"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
 
             </LinearLayout>

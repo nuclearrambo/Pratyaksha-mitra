@@ -9,7 +9,7 @@
         <item name="android:homeAsUpIndicator">@drawable/ic_arrow_back_white_36dp</item>
         <item name="android:windowAnimationStyle">@null</item>
     </style>
-    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml -->
+    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
@@ -71,7 +71,7 @@
         <item name="android:divider">@android:color/transparent</item>
         <item name="android:dividerHeight">0dp</item>
     </style>
-    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml -->
+    <!-- From: file:/C:/Users/Nuclearrambo/AndroidstudioProjects/Pratyaksha_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="Platform.V11.AppCompat"/>
     <style name="Platform.AppCompat.Light" parent="Platform.V11.AppCompat.Light"/>

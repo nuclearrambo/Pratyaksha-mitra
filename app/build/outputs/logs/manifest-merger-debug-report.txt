@@ -19,22 +19,37 @@ uses-sdk
 ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
 MERGED from [Pratyaksha_Android:NumberProgressBar:unspecified] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\Pratyaksha_Android\NumberProgressBar\unspecified\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.melnykov:floatingactionbutton:1.2.0] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
@@ -43,6 +58,8 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\Androi
 		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:8:9-35
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
@@ -71,30 +88,45 @@ uses-permission#android.permission.WAKE_LOCK
 ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:17:5-68
 	android:name
 		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:17:22-65
-android:uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:19:5-83
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:19:5-75
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:19:30-80
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:20:5-88
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:20:5-80
 	android:name
-		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:20:30-85
+		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:20:22-77
 application
 ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:22:5-89:19
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.melnykov:floatingactionbutton:1.2.0] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\AndroidManifest.xml:12:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\AndroidManifest.xml:28:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\src\main\AndroidManifest.xml:25:9-41
 	android:allowBackup

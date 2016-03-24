@@ -1,7 +1,6 @@
 package com.pratyaksha;
 
 import android.app.AlarmManager;
-import android.app.Dialog;
 import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
@@ -15,11 +14,9 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.SystemClock;
-import android.support.v4.app.DialogFragment;
-import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.app.AppCompatDialog;
 import android.support.v7.widget.ShareActionProvider;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
@@ -29,10 +26,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.ViewGroup;
 import android.view.ViewGroup.LayoutParams;
-import android.view.Window;
-import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
 import android.widget.AdapterView;
@@ -51,34 +45,24 @@ import com.bumptech.glide.GlideBuilder;
 import com.bumptech.glide.load.engine.cache.DiskCache;
 import com.bumptech.glide.load.engine.cache.DiskLruCacheWrapper;
 import com.daimajia.numberprogressbar.NumberProgressBar;
-import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 
 import org.apache.commons.lang3.CharEncoding;
-import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
-import android.database.sqlite.*;
 
 import cz.msebera.android.httpclient.Header;
 
@@ -316,7 +300,7 @@ public class MainActivity extends AppCompatActivity{
 		this.context = this;
 		Intent alarm = new Intent(this.context, PeriodicTaskReceiver.class);
 
-		boolean alarmRunning = (PendingIntent.getBroadcast(this.context, 0, alarm, PendingIntent.FLAG_NO_CREATE)!= null);
+		boolean alarmRunning = (PendingIntent.getBroadcast(getApplicationContext(), 0, alarm, PendingIntent.FLAG_NO_CREATE)!= null);
 		if(alarmRunning == false){
 			PendingIntent pendingIntent = PendingIntent.getBroadcast(this.context, 0, alarm, 0);
 			AlarmManager alarmManager = (AlarmManager)getSystemService(Context.ALARM_SERVICE);
@@ -781,8 +765,8 @@ public class MainActivity extends AppCompatActivity{
 		}
 
 //		//Nested menu branch point removed for a more fluid navigation
-		midContentLinks.remove(9); midContentLinks.remove(13);
-		midContentText.remove(9); midContentText.remove(13);
+//		midContentLinks.remove(9); midContentLinks.remove(13);
+//		midContentText.remove(9); midContentText.remove(13);
 
 		//Drawer
 		addDrawerItems();
@@ -1230,31 +1214,5 @@ public class MainActivity extends AppCompatActivity{
 		linearlayout.addView(rl);
 	}
 
-	public class MyFragment extends DialogFragment
-	{
-		public MyFragment() { }
-
-		@Override
-		public Dialog onCreateDialog(Bundle savedInstanceState) {
-			AppCompatDialog dialog = new AppCompatDialog(getActivity(), getTheme());
-			return dialog;
-		}
-
-		@Override
-		public void setupDialog(Dialog dialog, int style) {
-			switch (style) {
-				case STYLE_NO_INPUT:
-					dialog.getWindow().addFlags(
-							WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE |
-									WindowManager.LayoutParams.FLAG_NOT_TOUCHABLE);
-					// fall through...
-				case STYLE_NO_FRAME:
-				case STYLE_NO_TITLE:
-					((AppCompatDialog) dialog).supportRequestWindowFeature(Window.FEATURE_NO_TITLE);
-			}
-		}
-
-
-	}
-
+	
 }
