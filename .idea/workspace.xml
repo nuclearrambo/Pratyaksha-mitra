@@ -9,566 +9,16 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a3fd19-37db-4e0b-bd93-f34a5f3350e9" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\codeStyleSettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\android_async_http_1_4_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\appcompat_v7_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\appcompat_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\bolts_android_1_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\bolts_android_1_3_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\buzzboxSDK_0_6_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\commons_io_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\commons_lang3_3_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\design_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\disklrucache_2_0_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\facebook_android_sdk_4_7_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\floatingactionbutton_1_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\glide_3_6_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\httpclient_4_3_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\jsoup_1_8_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\library_1_1_0_sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\library_2_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\multidex_1_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\okhttp_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\okhttp_urlconnection_2_5_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\okio_1_6_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\picasso_2_5_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\recyclerview_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\simple_facebook_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\support_annotations_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\support_annotations_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\support_v4_21_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\.idea\libraries\support_v4_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\classes\androidTest\debug\com\pratyaksha\test\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_popup_background_mtrl_mult.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_scrubber_control_off_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_scrubber_primary_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_scrubber_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-hdpi\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-hdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-hdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-hdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-hdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-mdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-mdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-mdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-mdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxxhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxxhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxxhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxxhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_popup_background_mtrl_mult.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_scrubber_control_off_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_scrubber_primary_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_scrubber_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-mdpi\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_popup_background_mtrl_mult.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_scrubber_control_off_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_scrubber_primary_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_scrubber_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xhdpi\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_list_divider_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_popup_background_mtrl_mult.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_scrubber_control_off_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_scrubber_primary_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_scrubber_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxhdpi\abc_textfield_search_default_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_btn_check_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_btn_check_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_clear_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_scrubber_control_to_pressed_mtrl_000.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_scrubber_control_to_pressed_mtrl_005.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\drawable-xxxhdpi\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\layout-sw600dp\design_layout_snackbar.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-h320dp\values-h320dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-h720dp\values-h720dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-hdpi\values-hdpi.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-large\values-large.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-ldrtl-v23\values-ldrtl-v23.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-sw600dp\values-sw600dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-w360dp\values-w360dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-w480dp\values-w480dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-w500dp\values-w500dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-w600dp\values-w600dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-w720dp\values-w720dp.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-xlarge-land\values-xlarge-land.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Nuclearrambo\AndroidstudioProjects\Pratyaksha_Android\app\build\intermediates\res\merged\debug\values-xlarge\values-xlarge.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$5$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$5$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$5$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$5$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$6$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$6$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$7$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$7$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchFeedNano$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchFeedNano$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchFeedNano$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchFeedNano$1$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchFeedNano$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchFeedNano$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchFeedNano.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchFeedNano.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchPostsFromPage$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchPostsFromPage$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchPostsFromPage$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchPostsFromPage$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchPostsFromPage.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$FetchPostsFromPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$Wrapper.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/MainActivity$Wrapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/facebook/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/facebook/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/facebook/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/facebook/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/pratyaksha/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/facebook/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/facebook/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/daimajia/numberprogressbar/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/facebook/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/facebook/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/melnykov/fab/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" />
+    <list default="true" id="f1a3fd19-37db-4e0b-bd93-f34a5f3350e9" name="Default" comment="Changed the spash screen image and replaced with higher resolution.&#10;Changed splash screen background colour to pure white.&#10;Editted &quot;About&quot; activity.&#10;Changed service pendingIntent to have Application context to fix alarm manager stops working after few days.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_2_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/Pratyaksha_Android/NumberProgressBar/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/Pratyaksha_Android/NumberProgressBar/unspecified/jars/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/pratyaksha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/pratyaksha.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pratyaksha.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pratyaksha.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pratyaksha_Android.iml" afterPath="$PROJECT_DIR$/Pratyaksha_Android.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/daimajia/numberprogressbar/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/daimajia/numberprogressbar/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/facebook/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/facebook/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/melnykov/fab/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/melnykov/fab/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/pratyaksha/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/pratyaksha/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_pratyaksha_splash.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_pratyaksha_splash.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_pratyaksha_splash.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pratyaksha_splash.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_view_post.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_view_post.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-af/values-af.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-af/values-af.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-am/values-am.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-am/values-am.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ar/values-ar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-az-rAZ/values-az-rAZ.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-az-rAZ/values-az-rAZ.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bg/values-bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bg/values-bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bn-rBD/values-bn-rBD.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bn-rBD/values-bn-rBD.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ca/values-ca.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ca/values-ca.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-cs/values-cs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-da/values-da.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-da/values-da.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-de/values-de.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-el/values-el.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-el/values-el.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rAU/values-en-rAU.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rAU/values-en-rAU.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rGB/values-en-rGB.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rGB/values-en-rGB.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rIN/values-en-rIN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rIN/values-en-rIN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es-rUS/values-es-rUS.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es-rUS/values-es-rUS.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-es/values-es.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-et-rEE/values-et-rEE.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-et-rEE/values-et-rEE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-eu-rES/values-eu-rES.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-eu-rES/values-eu-rES.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fa/values-fa.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fa/values-fa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fi/values-fi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-gl-rES/values-gl-rES.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-gl-rES/values-gl-rES.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-gu-rIN/values-gu-rIN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-gu-rIN/values-gu-rIN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hi/values-hi.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hi/values-hi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hr/values-hr.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hr/values-hr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hu/values-hu.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hu/values-hu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hy-rAM/values-hy-rAM.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-hy-rAM/values-hy-rAM.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-in/values-in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-in/values-in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-is-rIS/values-is-rIS.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-is-rIS/values-is-rIS.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-it/values-it.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-iw/values-iw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ja/values-ja.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ka-rGE/values-ka-rGE.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ka-rGE/values-ka-rGE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-kk-rKZ/values-kk-rKZ.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-kk-rKZ/values-kk-rKZ.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-km-rKH/values-km-rKH.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-km-rKH/values-km-rKH.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-kn-rIN/values-kn-rIN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-kn-rIN/values-kn-rIN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ko/values-ko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ky-rKG/values-ky-rKG.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ky-rKG/values-ky-rKG.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-land/values-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-land/values-land.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lo-rLA/values-lo-rLA.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lo-rLA/values-lo-rLA.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lt/values-lt.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lt/values-lt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lv/values-lv.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-lv/values-lv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-mk-rMK/values-mk-rMK.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-mk-rMK/values-mk-rMK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ml-rIN/values-ml-rIN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ml-rIN/values-ml-rIN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-mn-rMN/values-mn-rMN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-mn-rMN/values-mn-rMN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-mr-rIN/values-mr-rIN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-mr-rIN/values-mr-rIN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ms-rMY/values-ms-rMY.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ms-rMY/values-ms-rMY.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-my-rMM/values-my-rMM.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-my-rMM/values-my-rMM.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ne-rNP/values-ne-rNP.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ne-rNP/values-ne-rNP.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-nl/values-nl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pa-rIN/values-pa-rIN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pa-rIN/values-pa-rIN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pl/values-pl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-port/values-port.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-port/values-port.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt-rBR/values-pt-rBR.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt-rPT/values-pt-rPT.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt-rPT/values-pt-rPT.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ro/values-ro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ru/values-ru.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-si-rLK/values-si-rLK.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-si-rLK/values-si-rLK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sk/values-sk.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sk/values-sk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sl/values-sl.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sl/values-sl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sq-rAL/values-sq-rAL.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sq-rAL/values-sq-rAL.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sv/values-sv.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sv/values-sv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw/values-sw.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw/values-sw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ta-rIN/values-ta-rIN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ta-rIN/values-ta-rIN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-te-rIN/values-te-rIN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-te-rIN/values-te-rIN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-th/values-th.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-th/values-th.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tl/values-tl.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tl/values-tl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tr/values-tr.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tr/values-tr.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-uk/values-uk.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-uk/values-uk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ur-rPK/values-ur-rPK.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ur-rPK/values-ur-rPK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-uz-rUZ/values-uz-rUZ.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-uz-rUZ/values-uz-rUZ.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v12/values-v12.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v12/values-v12.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v17/values-v17.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v17/values-v17.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v22/values-v22.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v22/values-v22.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v23/values-v23.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v23/values-v23.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-vi/values-vi.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-vi/values-vi.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rHK/values-zh-rHK.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rHK/values-zh-rHK.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zu/values-zu.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zu/values-zu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Pratyaksha_Android.iws" />
@@ -604,48 +54,6 @@
               <caret line="302" column="82" selection-start-line="302" selection-start-column="82" selection-end-line="302" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2503#2525#0" expanded="true" />
-                <element signature="e#3269#3301#0" expanded="true" />
-                <element signature="e#3573#3581#0" expanded="true" />
-                <element signature="e#3621#3629#0" expanded="true" />
-                <element signature="e#3674#3682#0" expanded="true" />
-                <element signature="e#3725#3733#0" expanded="true" />
-                <element signature="e#3837#3845#0" expanded="true" />
-                <element signature="e#3893#3901#0" expanded="true" />
-                <element signature="e#12040#12205#0" expanded="true" />
-                <element signature="e#12204#12205#0" expanded="true" />
-                <element signature="e#13878#14025#0" expanded="true" />
-                <element signature="e#14024#14025#0" expanded="true" />
-                <element signature="e#18815#19318#0" expanded="true" />
-                <element signature="e#19317#19318#0" expanded="true" />
-                <element signature="e#20057#20377#0" expanded="true" />
-                <element signature="e#20376#20377#0" expanded="true" />
-                <element signature="e#25312#25663#0" expanded="true" />
-                <element signature="e#25662#25663#0" expanded="true" />
-                <element signature="e#30448#30737#0" expanded="true" />
-                <element signature="e#30736#30737#0" expanded="true" />
-                <element signature="e#32930#34690#0" expanded="true" />
-                <element signature="e#33307#33901#0" expanded="true" />
-                <element signature="e#33900#33901#0" expanded="true" />
-                <element signature="e#34086#34680#0" expanded="true" />
-                <element signature="e#34679#34680#0" expanded="true" />
-                <element signature="e#34689#34690#0" expanded="true" />
-                <element signature="e#34776#35778#0" expanded="true" />
-                <element signature="e#35158#35766#0" expanded="true" />
-                <element signature="e#35765#35766#0" expanded="true" />
-                <element signature="e#35777#35778#0" expanded="true" />
-                <element signature="e#35808#36803#0" expanded="true" />
-                <element signature="e#36183#36791#0" expanded="true" />
-                <element signature="e#36790#36791#0" expanded="true" />
-                <element signature="e#36802#36803#0" expanded="true" />
-                <element signature="e#37837#38200#0" expanded="true" />
-                <element signature="e#38199#38200#0" expanded="true" />
-                <element signature="e#38209#38241#0" expanded="true" />
-                <element signature="e#38346#38366#0" expanded="true" />
-                <element signature="e#38368#38389#0" expanded="true" />
-                <element signature="e#40309#40564#0" expanded="true" />
-                <element signature="e#40563#40564#0" expanded="true" />
-                <element signature="e#40570#40602#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -663,34 +71,34 @@
       </file>
       <file leaf-file-name="activity_about.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.965517">
+            <state vertical-scroll-proportion="0.0">
               <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_pratyaksha_splash.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pratyaksha_splash.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.3448277">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="20" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -699,46 +107,52 @@
       </file>
       <file leaf-file-name="activity_view_post.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.4827585">
-              <caret line="68" column="68" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
-              <folding>
-                <element signature="e#1109#1156#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="68" column="68" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_main_feed.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_feed.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="ViewPost.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77351916">
+            <state vertical-scroll-proportion="0.0">
               <caret line="464" column="44" selection-start-line="464" selection-start-column="44" selection-end-line="464" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#15510#15542#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="nuclearrambo" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Pratyaksha-mitra" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -3107,6 +2521,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -3139,56 +2555,6 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pratyaksha_Android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pratyaksha_Android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pratyaksha_Android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
@@ -3205,10 +2571,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3366,6 +2730,13 @@
       <option name="number" value="Default" />
       <updated>1455205897179</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed the spash screen image and replaced with higher resolution.&#10;Changed splash screen background colour to pure white.&#10;Editted &quot;About&quot; activity.&#10;Changed service pendingIntent to have Application context to fix alarm manager stops working after few days.">
+      <created>1458831530950</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1458831530950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3374,7 +2745,6 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20682302" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.48294243" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3382,9 +2752,9 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.49337748" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39822024" sideWeight="0.4936034" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2172524" sideWeight="0.5264901" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3303671" sideWeight="0.51865673" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5042644" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.49573562" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33037695" sideWeight="0.772098" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2172524" sideWeight="0.5057851" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34478936" sideWeight="0.19382322" order="13" side_tool="false" content_ui="tabs" />
@@ -3394,11 +2764,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12526652" sideWeight="0.47350994" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3303671" sideWeight="0.48134327" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3303671" sideWeight="0.48134327" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20682302" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32594234" sideWeight="0.49574015" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -3416,10 +2787,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/Pratyaksha-mitra" />
     </ignored-roots>
+    <MESSAGE value="Changed the spash screen image and replaced with higher resolution.&#10;Changed splash screen background colour to pure white.&#10;Editted &quot;About&quot; activity.&#10;Changed service pendingIntent to have Application context to fix alarm manager stops working after few days." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the spash screen image and replaced with higher resolution.&#10;Changed splash screen background colour to pure white.&#10;Editted &quot;About&quot; activity.&#10;Changed service pendingIntent to have Application context to fix alarm manager stops working after few days." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -3429,89 +2805,79 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="93" column="43" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="43" />
+          <caret line="302" column="82" selection-start-line="302" selection-start-column="82" selection-end-line="302" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2503#2525#0" expanded="true" />
-            <element signature="e#3269#3301#0" expanded="true" />
-            <element signature="e#3573#3581#0" expanded="true" />
-            <element signature="e#3621#3629#0" expanded="true" />
-            <element signature="e#3674#3682#0" expanded="true" />
-            <element signature="e#3725#3733#0" expanded="true" />
-            <element signature="e#3837#3845#0" expanded="true" />
-            <element signature="e#3893#3901#0" expanded="true" />
-            <element signature="e#12040#12205#0" expanded="true" />
-            <element signature="e#12204#12205#0" expanded="true" />
-            <element signature="e#13878#14025#0" expanded="true" />
-            <element signature="e#14024#14025#0" expanded="true" />
-            <element signature="e#18815#19318#0" expanded="true" />
-            <element signature="e#19317#19318#0" expanded="true" />
-            <element signature="e#20057#20377#0" expanded="true" />
-            <element signature="e#20376#20377#0" expanded="true" />
-            <element signature="e#25312#25663#0" expanded="true" />
-            <element signature="e#25662#25663#0" expanded="true" />
-            <element signature="e#30448#30737#0" expanded="true" />
-            <element signature="e#30736#30737#0" expanded="true" />
-            <element signature="e#32930#34690#0" expanded="true" />
-            <element signature="e#33307#33901#0" expanded="true" />
-            <element signature="e#33900#33901#0" expanded="true" />
-            <element signature="e#34086#34680#0" expanded="true" />
-            <element signature="e#34679#34680#0" expanded="true" />
-            <element signature="e#34689#34690#0" expanded="true" />
-            <element signature="e#34776#35778#0" expanded="true" />
-            <element signature="e#35158#35766#0" expanded="true" />
-            <element signature="e#35765#35766#0" expanded="true" />
-            <element signature="e#35777#35778#0" expanded="true" />
-            <element signature="e#35808#36803#0" expanded="true" />
-            <element signature="e#36183#36791#0" expanded="true" />
-            <element signature="e#36790#36791#0" expanded="true" />
-            <element signature="e#36802#36803#0" expanded="true" />
-            <element signature="e#37837#38200#0" expanded="true" />
-            <element signature="e#38199#38200#0" expanded="true" />
-            <element signature="e#38209#38241#0" expanded="true" />
-            <element signature="e#38346#38366#0" expanded="true" />
-            <element signature="e#38368#38389#0" expanded="true" />
-            <element signature="e#40309#40564#0" expanded="true" />
-            <element signature="e#40563#40564#0" expanded="true" />
-            <element signature="e#40570#40602#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/PeriodicTaskReceiver.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/About.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="19" selection-start-line="74" selection-start-column="8" selection-end-line="78" selection-end-column="19" />
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/AlarmReceiver.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pratyaksha_splash.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="68" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_feed.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3522,48 +2888,6 @@
           <caret line="93" column="43" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2503#2525#0" expanded="true" />
-            <element signature="e#3269#3301#0" expanded="true" />
-            <element signature="e#3573#3581#0" expanded="true" />
-            <element signature="e#3621#3629#0" expanded="true" />
-            <element signature="e#3674#3682#0" expanded="true" />
-            <element signature="e#3725#3733#0" expanded="true" />
-            <element signature="e#3837#3845#0" expanded="true" />
-            <element signature="e#3893#3901#0" expanded="true" />
-            <element signature="e#12040#12205#0" expanded="true" />
-            <element signature="e#12204#12205#0" expanded="true" />
-            <element signature="e#13878#14025#0" expanded="true" />
-            <element signature="e#14024#14025#0" expanded="true" />
-            <element signature="e#18815#19318#0" expanded="true" />
-            <element signature="e#19317#19318#0" expanded="true" />
-            <element signature="e#20057#20377#0" expanded="true" />
-            <element signature="e#20376#20377#0" expanded="true" />
-            <element signature="e#25312#25663#0" expanded="true" />
-            <element signature="e#25662#25663#0" expanded="true" />
-            <element signature="e#30448#30737#0" expanded="true" />
-            <element signature="e#30736#30737#0" expanded="true" />
-            <element signature="e#32930#34690#0" expanded="true" />
-            <element signature="e#33307#33901#0" expanded="true" />
-            <element signature="e#33900#33901#0" expanded="true" />
-            <element signature="e#34086#34680#0" expanded="true" />
-            <element signature="e#34679#34680#0" expanded="true" />
-            <element signature="e#34689#34690#0" expanded="true" />
-            <element signature="e#34776#35778#0" expanded="true" />
-            <element signature="e#35158#35766#0" expanded="true" />
-            <element signature="e#35765#35766#0" expanded="true" />
-            <element signature="e#35777#35778#0" expanded="true" />
-            <element signature="e#35808#36803#0" expanded="true" />
-            <element signature="e#36183#36791#0" expanded="true" />
-            <element signature="e#36790#36791#0" expanded="true" />
-            <element signature="e#36802#36803#0" expanded="true" />
-            <element signature="e#37837#38200#0" expanded="true" />
-            <element signature="e#38199#38200#0" expanded="true" />
-            <element signature="e#38209#38241#0" expanded="true" />
-            <element signature="e#38346#38366#0" expanded="true" />
-            <element signature="e#38368#38389#0" expanded="true" />
-            <element signature="e#40309#40564#0" expanded="true" />
-            <element signature="e#40563#40564#0" expanded="true" />
-            <element signature="e#40570#40602#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3572,9 +2896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3582,9 +2903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3600,9 +2918,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="93" column="43" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/PeriodicTaskReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/RSSService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="19" selection-start-line="74" selection-start-column="8" selection-end-line="78" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/AlarmReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -3631,9 +2985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3641,9 +2992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3659,9 +3007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="170" column="103" selection-start-line="170" selection-start-column="103" selection-end-line="170" selection-end-column="103" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3671,48 +3016,6 @@
           <caret line="302" column="82" selection-start-line="302" selection-start-column="82" selection-end-line="302" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2503#2525#0" expanded="true" />
-            <element signature="e#3269#3301#0" expanded="true" />
-            <element signature="e#3573#3581#0" expanded="true" />
-            <element signature="e#3621#3629#0" expanded="true" />
-            <element signature="e#3674#3682#0" expanded="true" />
-            <element signature="e#3725#3733#0" expanded="true" />
-            <element signature="e#3837#3845#0" expanded="true" />
-            <element signature="e#3893#3901#0" expanded="true" />
-            <element signature="e#12040#12205#0" expanded="true" />
-            <element signature="e#12204#12205#0" expanded="true" />
-            <element signature="e#13878#14025#0" expanded="true" />
-            <element signature="e#14024#14025#0" expanded="true" />
-            <element signature="e#18815#19318#0" expanded="true" />
-            <element signature="e#19317#19318#0" expanded="true" />
-            <element signature="e#20057#20377#0" expanded="true" />
-            <element signature="e#20376#20377#0" expanded="true" />
-            <element signature="e#25312#25663#0" expanded="true" />
-            <element signature="e#25662#25663#0" expanded="true" />
-            <element signature="e#30448#30737#0" expanded="true" />
-            <element signature="e#30736#30737#0" expanded="true" />
-            <element signature="e#32930#34690#0" expanded="true" />
-            <element signature="e#33307#33901#0" expanded="true" />
-            <element signature="e#33900#33901#0" expanded="true" />
-            <element signature="e#34086#34680#0" expanded="true" />
-            <element signature="e#34679#34680#0" expanded="true" />
-            <element signature="e#34689#34690#0" expanded="true" />
-            <element signature="e#34776#35778#0" expanded="true" />
-            <element signature="e#35158#35766#0" expanded="true" />
-            <element signature="e#35765#35766#0" expanded="true" />
-            <element signature="e#35777#35778#0" expanded="true" />
-            <element signature="e#35808#36803#0" expanded="true" />
-            <element signature="e#36183#36791#0" expanded="true" />
-            <element signature="e#36790#36791#0" expanded="true" />
-            <element signature="e#36802#36803#0" expanded="true" />
-            <element signature="e#37837#38200#0" expanded="true" />
-            <element signature="e#38199#38200#0" expanded="true" />
-            <element signature="e#38209#38241#0" expanded="true" />
-            <element signature="e#38346#38366#0" expanded="true" />
-            <element signature="e#38368#38389#0" expanded="true" />
-            <element signature="e#40309#40564#0" expanded="true" />
-            <element signature="e#40563#40564#0" expanded="true" />
-            <element signature="e#40570#40602#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3726,14 +3029,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.965517">
+        <state vertical-scroll-proportion="0.0">
           <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -3745,55 +3048,51 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pratyaksha_splash.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3448277">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/Post.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05037037">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_feed.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_post.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4827585">
-          <caret line="68" column="68" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
-          <folding>
-            <element signature="e#1109#1156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="68" selection-start-line="68" selection-start-column="68" selection-end-line="68" selection-end-column="68" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pratyaksha/ViewPost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77351916">
+        <state vertical-scroll-proportion="0.0">
           <caret line="464" column="44" selection-start-line="464" selection-start-column="44" selection-end-line="464" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#15510#15542#1" expanded="true" />
           </folding>
         </state>
       </provider>
